@@ -15,8 +15,7 @@
 10. Escribir notasEstudiantes[4]
 10. Escribir notasEstudiantes[5]
 10. Escribir notasEstudiantes[6]
-10. Escribir notasEstudiantes[7]
-11. Fin
+10. Fin
 
 
 
